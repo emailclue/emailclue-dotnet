@@ -9,7 +9,7 @@ Add to your solution / project via the Nu-Get package manager command line
 
 Usage
 
-```
+``` C#
 using EmailClue
 
 namespace MyApp 
