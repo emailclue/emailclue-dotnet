@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/emailclue/emailclue-dotnet/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/emailclue/emailclue-dotnet</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/9601250?v=3&amp;u=bee6ba40380b120d0411f96cdeb2879faa1b65c0</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>EmailClue Email Validation</tags>
+  </metadata>
+</package>
