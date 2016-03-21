@@ -10,7 +10,7 @@ namespace EmailClue
         // Validation validateEmail(string Email);
         Task<Validation> ValidateEmailAsync(string Email);
 
-        EmailSend SendEmail(string TemplateKey);
+        // EmailSend SendEmail(string TemplateKey);
         // Task<EmailSend> sendEmailAsync(string TemplateKey);
     }
 
@@ -38,12 +38,12 @@ namespace EmailClue
             return await response.Content.ReadAsAsync<Validation>();
         }
 
-        public EmailSend SendEmail(string TemplateKey)
-        {
-            var result = new EmailSend();
-            result.ID = "asdj19";
-            return result;
-        }
+        // public EmailSend SendEmail(string TemplateKey)
+        // {
+        //     var result = new EmailSend();
+        //     result.ID = "asdj19";
+        //     return result;
+        // }
 
         public void Dispose()
         {
