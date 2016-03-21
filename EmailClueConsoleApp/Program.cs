@@ -15,12 +15,6 @@ namespace EmailClueConsoleApp
             ValidateToConsole(emailClue, "test@gmail.com");
             ValidateToConsole(emailClue, "test@hotmail.com");
             ValidateToConsole(emailClue, "fail@oi12ninonnodununiebk2.com");
-            ValidateToConsole(emailClue, "admin@workshopwhizz.com");
-            ValidateToConsole(emailClue, "support@workshopwhizz.com");
-            ValidateToConsole(emailClue, "James@facebook.com");
-            ValidateToConsole(emailClue, "Blah@domain.com");
-            ValidateToConsole(emailClue, "stuff@mail123.com");
-            ValidateToConsole(emailClue, "dj.mabbett@gmaaill.com");
 
             Console.Read();
         }
